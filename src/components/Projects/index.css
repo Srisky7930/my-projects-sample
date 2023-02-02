@@ -1,0 +1,21 @@
+.project-details {
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-right: 20px;
+  margin-bottom: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.image {
+  height: 180px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.name {
+  font-size: 15px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
